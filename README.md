@@ -1,4 +1,4 @@
-It's all broken:
+Packaging Python2.4 eggs with `-s dir` works, but `-s python` doesn't.
 
     # Get a clean Ubuntu 10.04 virtual machine to test this on:
     vagrant up
