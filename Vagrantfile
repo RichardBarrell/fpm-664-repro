@@ -38,8 +38,6 @@ apt-get -y install --no-install-recommends \
   rubygems                      \
   # Intentionally left blank.
 
-sh /vagrant/build_packages.sh
-
   eos
 
 end
